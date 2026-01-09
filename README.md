@@ -27,5 +27,5 @@ To run the game:
 * Open `index.html` in any modern web browser.
 
 Reference:
-Coding idea: Kenny Yip Coding
+Coding idea: Kenny Yip Coding,
 Images of Dino and Cactus: Kenny Yip Coding
