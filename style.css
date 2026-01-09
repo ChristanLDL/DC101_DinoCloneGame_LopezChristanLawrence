@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+    /* For True Centering of the game on the screen */
+    display: flex;
+    flex-direction: column;
+    align-items: center;    /* Centers children (h1 and canvas) horizontally */
+    justify-content: center;  /* Centers children (h1 and canvas) vertically */
+    min-height: 100vh;      /* Ensures the body takes up the full viewport height */
+    margin: 0;              /* Removes the browser's default margin */
+}
+
+#board{
+    background-color: antiquewhite;
+    border-bottom: 2px solid black; /* Creates a visible ground line */
+}
